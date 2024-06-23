@@ -17,7 +17,7 @@
         <div class="collapse navbar-collapse" id="navbar">
             <ul class="navbar-nav ms-auto">
 
-                <li class="nav-item"> <a class="nav-link active" href="#">Home</a>
+                <li class="nav-item"> <a class="nav-link active" href="/">Home</a>
                 </li>
 
                 <li class="nav-item"><a class="nav-link" href="/">Visit Tangua</a></li>
