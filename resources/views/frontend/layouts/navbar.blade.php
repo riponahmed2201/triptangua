@@ -6,7 +6,7 @@
                     class="logo-img" alt="">
             </a> --}}
             <a class="logo" href="/">
-                <h2>Triptangua</h2>
+                <h2>Trip Tangua</h2>
             </a>
         </div>
         <!-- Button -->
