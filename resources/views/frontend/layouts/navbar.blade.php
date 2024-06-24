@@ -20,7 +20,7 @@
                 <li class="nav-item"> <a class="nav-link active" href="/">Home</a>
                 </li>
 
-                <li class="nav-item"><a class="nav-link" href="/">Visit Tangua</a></li>
+                <li class="nav-item"><a class="nav-link" href="/">Beautiful Tangua</a></li>
                 <li class="nav-item"><a class="nav-link" href="/">Daily News</a></li>
                 <li class="nav-item"><a class="nav-link" href="/">Houseboat</a></li>
                 <li class="nav-item"><a class="nav-link" href="/">Traditional Boat</a></li>
